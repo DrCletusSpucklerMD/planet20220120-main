@@ -1,5 +1,5 @@
 # planet20220120-main
- planets dummy repo to practice using desktop github.
+A practice Repo for a tutorial on Git.
 
 The story of Wolfman, Mummy, and Dracula sending a planetary lander to Mars.
 
